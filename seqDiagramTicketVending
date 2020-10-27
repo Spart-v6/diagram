@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2020-10-27T15:53:59.350Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="LNQ1eoFApdwTA5gLBjtw" version="13.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-27T15:55:12.669Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="u5AZ2CyshS4nrCqnLYM1" version="13.8.5" type="github">
   <diagram id="8a-F2K-Ya09UdYJ4pWsU" name="Page-1">
     <mxGraphModel dx="865" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="l1h1aFKSreVrMlf_mLmP-2" value="Ticket Vending Machine" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
+        <mxCell id="l1h1aFKSreVrMlf_mLmP-2" value="&lt;font style=&quot;font-size: 13px&quot;&gt;Ticket Vending Machine&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
           <mxGeometry x="310" y="80" width="130" height="560" as="geometry" />
         </mxCell>
         <mxCell id="l1h1aFKSreVrMlf_mLmP-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" vertex="1" parent="l1h1aFKSreVrMlf_mLmP-2">
           <mxGeometry x="60" y="60" width="10" height="430" as="geometry" />
         </mxCell>
-        <mxCell id="l1h1aFKSreVrMlf_mLmP-3" value="Database" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
+        <mxCell id="l1h1aFKSreVrMlf_mLmP-3" value="&lt;font style=&quot;font-size: 13px&quot;&gt;Database&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
           <mxGeometry x="500" y="90" width="120" height="470" as="geometry" />
         </mxCell>
         <mxCell id="l1h1aFKSreVrMlf_mLmP-14" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="l1h1aFKSreVrMlf_mLmP-3">
@@ -25,7 +25,7 @@
         <mxCell id="l1h1aFKSreVrMlf_mLmP-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="l1h1aFKSreVrMlf_mLmP-4">
           <mxGeometry x="10" y="55" width="10" height="445" as="geometry" />
         </mxCell>
-        <mxCell id="l1h1aFKSreVrMlf_mLmP-7" value="ticket request" style="endArrow=classic;html=1;" edge="1" parent="1" source="l1h1aFKSreVrMlf_mLmP-4" target="l1h1aFKSreVrMlf_mLmP-2">
+        <mxCell id="l1h1aFKSreVrMlf_mLmP-7" value="&lt;font style=&quot;font-size: 12px&quot;&gt;ticket request&lt;/font&gt;" style="endArrow=classic;html=1;" edge="1" parent="1" source="l1h1aFKSreVrMlf_mLmP-4" target="l1h1aFKSreVrMlf_mLmP-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="230" y="210" as="sourcePoint" />
             <mxPoint x="280" y="160" as="targetPoint" />
@@ -34,44 +34,44 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="l1h1aFKSreVrMlf_mLmP-10" value="show available tickets" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1">
+        <mxCell id="l1h1aFKSreVrMlf_mLmP-10" value="&lt;font style=&quot;font-size: 12px&quot;&gt;show available tickets&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="370" y="203" as="sourcePoint" />
             <mxPoint x="204.66666666666674" y="203" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="l1h1aFKSreVrMlf_mLmP-11" value="select ticket" style="endArrow=classic;html=1;entryX=0.1;entryY=0.231;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="l1h1aFKSreVrMlf_mLmP-4" target="l1h1aFKSreVrMlf_mLmP-6">
+        <mxCell id="l1h1aFKSreVrMlf_mLmP-11" value="&lt;font style=&quot;font-size: 12px&quot;&gt;select ticket&lt;/font&gt;" style="endArrow=classic;html=1;entryX=0.1;entryY=0.231;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="l1h1aFKSreVrMlf_mLmP-4" target="l1h1aFKSreVrMlf_mLmP-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="270" y="280" as="sourcePoint" />
             <mxPoint x="320" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="l1h1aFKSreVrMlf_mLmP-12" value="demand for payment" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1" target="l1h1aFKSreVrMlf_mLmP-4">
+        <mxCell id="l1h1aFKSreVrMlf_mLmP-12" value="&lt;font style=&quot;font-size: 12px&quot;&gt;demand for payment&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1" target="l1h1aFKSreVrMlf_mLmP-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="370" y="280" as="sourcePoint" />
             <mxPoint x="290" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="l1h1aFKSreVrMlf_mLmP-13" value="insert card" style="endArrow=classic;html=1;entryX=-0.033;entryY=0.414;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="l1h1aFKSreVrMlf_mLmP-4" target="l1h1aFKSreVrMlf_mLmP-6">
+        <mxCell id="l1h1aFKSreVrMlf_mLmP-13" value="&lt;font style=&quot;font-size: 12px&quot;&gt;insert card&lt;/font&gt;" style="endArrow=classic;html=1;entryX=-0.033;entryY=0.414;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="l1h1aFKSreVrMlf_mLmP-4" target="l1h1aFKSreVrMlf_mLmP-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="240" y="340" as="sourcePoint" />
             <mxPoint x="290" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="l1h1aFKSreVrMlf_mLmP-15" value="card number" style="endArrow=classic;html=1;entryX=-0.067;entryY=0.379;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="l1h1aFKSreVrMlf_mLmP-2" target="l1h1aFKSreVrMlf_mLmP-14">
+        <mxCell id="l1h1aFKSreVrMlf_mLmP-15" value="&lt;font style=&quot;font-size: 12px&quot;&gt;card number&lt;/font&gt;" style="endArrow=classic;html=1;entryX=-0.067;entryY=0.379;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="l1h1aFKSreVrMlf_mLmP-2" target="l1h1aFKSreVrMlf_mLmP-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="410" y="370" as="sourcePoint" />
             <mxPoint x="460" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="l1h1aFKSreVrMlf_mLmP-16" value="card OK" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1" target="l1h1aFKSreVrMlf_mLmP-2">
+        <mxCell id="l1h1aFKSreVrMlf_mLmP-16" value="&lt;font style=&quot;font-size: 12px&quot;&gt;card OK&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1" target="l1h1aFKSreVrMlf_mLmP-2">
           <mxGeometry x="0.0791" y="20" relative="1" as="geometry">
             <mxPoint x="560" y="370" as="sourcePoint" />
             <mxPoint x="480" y="370" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="l1h1aFKSreVrMlf_mLmP-17" value="pin entered" style="endArrow=classic;html=1;" edge="1" parent="1" source="l1h1aFKSreVrMlf_mLmP-4" target="l1h1aFKSreVrMlf_mLmP-6">
+        <mxCell id="l1h1aFKSreVrMlf_mLmP-17" value="&lt;font style=&quot;font-size: 12px&quot;&gt;pin entered&lt;/font&gt;" style="endArrow=classic;html=1;" edge="1" parent="1" source="l1h1aFKSreVrMlf_mLmP-4" target="l1h1aFKSreVrMlf_mLmP-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="300" y="450" as="sourcePoint" />
             <mxPoint x="350" y="400" as="targetPoint" />
@@ -80,26 +80,26 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="l1h1aFKSreVrMlf_mLmP-20" value="charge from card" style="endArrow=classic;html=1;entryX=0;entryY=0.21;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="l1h1aFKSreVrMlf_mLmP-2" target="l1h1aFKSreVrMlf_mLmP-18">
+        <mxCell id="l1h1aFKSreVrMlf_mLmP-20" value="&lt;font style=&quot;font-size: 12px&quot;&gt;charge from card&lt;/font&gt;" style="endArrow=classic;html=1;entryX=0;entryY=0.21;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="l1h1aFKSreVrMlf_mLmP-2" target="l1h1aFKSreVrMlf_mLmP-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="420" y="500" as="sourcePoint" />
             <mxPoint x="470" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="l1h1aFKSreVrMlf_mLmP-21" value="authorized" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1" target="l1h1aFKSreVrMlf_mLmP-2">
+        <mxCell id="l1h1aFKSreVrMlf_mLmP-21" value="&lt;font style=&quot;font-size: 12px&quot;&gt;authorized&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1" target="l1h1aFKSreVrMlf_mLmP-2">
           <mxGeometry x="-0.0288" y="20" relative="1" as="geometry">
             <mxPoint x="560" y="470" as="sourcePoint" />
             <mxPoint x="480" y="470" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="l1h1aFKSreVrMlf_mLmP-22" value="give ticket" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1" target="l1h1aFKSreVrMlf_mLmP-4">
+        <mxCell id="l1h1aFKSreVrMlf_mLmP-22" value="&lt;font style=&quot;font-size: 12px&quot;&gt;give ticket&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1" target="l1h1aFKSreVrMlf_mLmP-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="370" y="500" as="sourcePoint" />
             <mxPoint x="290" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="l1h1aFKSreVrMlf_mLmP-24" value="eject card" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.1;entryY=0.893;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="l1h1aFKSreVrMlf_mLmP-5">
+        <mxCell id="l1h1aFKSreVrMlf_mLmP-24" value="&lt;font style=&quot;font-size: 12px&quot;&gt;eject card&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.1;entryY=0.893;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="l1h1aFKSreVrMlf_mLmP-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="370" y="530" as="sourcePoint" />
             <mxPoint x="290" y="530" as="targetPoint" />
