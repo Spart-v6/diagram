@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-05T15:53:09.452Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="ZJ8llAq0oAzethghUSfO" version="13.8.9-1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-05T15:55:10.521Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="aTqefS0KTKV7HsKj2e6c" version="13.8.9-1" type="github">
   <diagram id="MYUDOTSNWcvHQbUaVo7y" name="Page-1">
     <mxGraphModel dx="1038" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="rn7xumX3P7TTsbhhSynE-17" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;rotation=0;" vertex="1" parent="rn7xumX3P7TTsbhhSynE-15">
           <mxGeometry y="70" width="160" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="rn7xumX3P7TTsbhhSynE-18" value="+ add Book()&#xa;+ remove Book()&#xa;+ add Journal()&#xa;+ remove Journal()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotation=0;" vertex="1" parent="rn7xumX3P7TTsbhhSynE-15">
+        <mxCell id="rn7xumX3P7TTsbhhSynE-18" value="+ add Book()&#xa;+ remove Book()&#xa;+ add Catalog()&#xa;+ remove Catalog()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotation=0;" vertex="1" parent="rn7xumX3P7TTsbhhSynE-15">
           <mxGeometry y="78" width="160" height="72" as="geometry" />
         </mxCell>
         <mxCell id="rn7xumX3P7TTsbhhSynE-19" value="Book" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
@@ -37,7 +37,7 @@
         <mxCell id="rn7xumX3P7TTsbhhSynE-25" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="rn7xumX3P7TTsbhhSynE-23">
           <mxGeometry y="80" width="160" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="rn7xumX3P7TTsbhhSynE-26" value="+ find Journal()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="rn7xumX3P7TTsbhhSynE-23">
+        <mxCell id="rn7xumX3P7TTsbhhSynE-26" value="+ find Catalog()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="rn7xumX3P7TTsbhhSynE-23">
           <mxGeometry y="88" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="rn7xumX3P7TTsbhhSynE-27" value="Library Member" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
@@ -82,7 +82,7 @@
         <mxCell id="rn7xumX3P7TTsbhhSynE-37" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="rn7xumX3P7TTsbhhSynE-35">
           <mxGeometry y="70" width="160" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="rn7xumX3P7TTsbhhSynE-38" value="+ issue Journal()&#xa;+ return Journal()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="rn7xumX3P7TTsbhhSynE-35">
+        <mxCell id="rn7xumX3P7TTsbhhSynE-38" value="+ issue Catalog()&#xa;+ return Catalog()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="rn7xumX3P7TTsbhhSynE-35">
           <mxGeometry y="78" width="160" height="42" as="geometry" />
         </mxCell>
         <mxCell id="rn7xumX3P7TTsbhhSynE-44" value="" style="endArrow=diamondThin;endFill=1;endSize=24;html=1;entryX=1.017;entryY=1.073;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="rn7xumX3P7TTsbhhSynE-16">
