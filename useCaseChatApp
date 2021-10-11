@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-10-11T18:32:01.212Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="LibLp8zGzMUGpAC1GMbh" version="15.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-11T18:38:33.742Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="Xm1DwxHKc2anf3GhpO6q" version="15.5.1" type="github">
   <diagram id="elwPUDqksy2BrWWt0vLR" name="Page-1">
-    <mxGraphModel dx="1483" dy="1281" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1278" dy="1017" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="jfSX-ic2Y6QZXuGMl6cZ-1" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Actor&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=3;sketch=1;" parent="1" vertex="1">
+        <mxCell id="jfSX-ic2Y6QZXuGMl6cZ-1" value="&lt;font style=&quot;font-size: 14px&quot;&gt;User&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=3;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="220" width="60" height="110" as="geometry" />
         </mxCell>
         <mxCell id="jfSX-ic2Y6QZXuGMl6cZ-4" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;sketch=0;" parent="1" vertex="1">
@@ -139,7 +139,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-4yeD3tBBMXdeH8_PiIh-1" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Chat App&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="-4yeD3tBBMXdeH8_PiIh-1" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Chat App&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="380" y="-150" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
